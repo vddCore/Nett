@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net35</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <Description>Catalyst project fork of experimental extensions for Nett.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Nett\Nett.csproj" />
+  </ItemGroup>
+</Project>

@@ -12,6 +12,7 @@
 /ngp
 
 #Folders everywhere
+.idea
 .vs
 bin
 obj
@@ -19,5 +20,3 @@ packages
 PerfTestResults
 data
 
-# Tagtemplate(d) files
-Shared.targets
